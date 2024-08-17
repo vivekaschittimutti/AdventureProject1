@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: 200px;
+    padding-top: 10px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.person {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.bgi {
+    background-image: url('https://res.cloudinary.com/ddpe1sf4f/image/upload/v1723823624/IMG-20240816-WA0013_t0aci6.jpg');
+    height: 120vh;
+    background-size: cover;
+    padding: 200px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    font-family: Roboto;
+}
+
+
+
+p {
+    font-size: 18px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px;
+    color: black;
+}
+
+.packages {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.tours {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.section1 {
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.section2 {
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.section3 {
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    width: 200px;
+    border-radius: 10px;
+}
+@media (max-width:991px){
+    .bgi{
+        height: 100vh;
+    }
+}
+
+.section4 {
+    padding: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    width: 100px;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.threestar {
+    color: white;
+    background-color: black;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 10px;
+}
+
+.fivestar {
+    color: black;
+    background-color: #e0e0d1;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 10px;
+}
